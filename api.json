@@ -1,10 +1,51 @@
 [
     {
         "id":1,
-        "title":"",
-        "price":1,
-        "description":"",
-        "category":"",
-        "img":""
+        "title":"CATAFLAM",
+        "price":43,
+        "description":"50MG 20/TAB",
+        "category":"Medicatio",
+        "img":"https://ahmedmmhmoud2001.github.io/pharmacy-api/img/CATAFLAM.jpg"
+    },
+    {
+        "id":2,
+        "title":"STIMULAN",
+        "price":24,
+        "description":"400MG 30/CAP",
+        "category":"Medicatio",
+        "img":"https://ahmedmmhmoud2001.github.io/pharmacy-api/img/STIMULAN.jpg"
+    },
+    {
+        "id":3,
+        "title":"CATAFAST",
+        "price":46.5,
+        "description":"POWDER 50MG 9/SACH",
+        "category":"Medicatio",
+        "img":"https://ahmedmmhmoud2001.github.io/pharmacy-api/img/CATAFAST.jpg"
+    },
+    {
+        "id":4,
+        "title":"AUGMENTIN",
+        "price":99,
+        "description":"1GM 14/TAB",
+        "category":"Medicatio",
+        "img":"https://ahmedmmhmoud2001.github.io/pharmacy-api/img/AUGMENTIN.jpg"
+    },
+    {
+        "id":5,
+        "title":"BACLOFEN",
+        "price":27,
+        "description":"25MG 20/TAB",
+        "category":"Medicatio",
+        "img":"https://ahmedmmhmoud2001.github.io/pharmacy-api/img/BACLOFEN.jpg"
+    },
+    {
+        "id":6,
+        "title":"EXAPINE",
+        "price":142,
+        "description":"80MG/0.8ML 2/PREF.SYR",
+        "category":"Medicatio",
+        "img":"https://ahmedmmhmoud2001.github.io/pharmacy-api/img/EXAPINE.jpg"
     }
+
 ]
