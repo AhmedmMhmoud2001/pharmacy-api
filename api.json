@@ -1,4 +1,4 @@
-[
+{"products":[
     {
         "id":1,
         "title":"CATAFLAM",
@@ -48,4 +48,4 @@
         "img":"https://ahmedmmhmoud2001.github.io/pharmacy-api/img/EXAPINE.jpg"
     }
 
-]
+]}
