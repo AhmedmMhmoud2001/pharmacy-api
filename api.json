@@ -1,4 +1,181 @@
-[
+[    {
+        "title" :"Quitapex 100 Mg 30 tablet 3 Strips",
+        "price" :166.00,
+        "description" :"Active Ingredients Active Ingredient Quetiapine Concentration 100.00 old Unit mg Unit:  mg Bookmark this Product",
+        "category" :"BRAIN & NERVOUS SYSTEM",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/Quitapex.png",
+        "count":3,
+        "rating":4
+    },
+    {
+        "title" :"QUITCOOL XR 150 MG 30 FILM COATED tablet",
+        "price" :150.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"BRAIN & NERVOUS SYSTEM",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/QUITCOOL.png",
+        "count":3,
+        "rating":4
+    }
+    ,
+    {
+        "title" :"SERDOLECT 16 MG 14 tablet",
+        "price" :375.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"BRAIN & NERVOUS SYSTEM",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/SERDOLECT.png",
+        "count":3,
+        "rating":4
+    },
+    {
+        "title" :"Prothiaden 75 Mg 10 Tablet 1 Strip",
+        "price" :18.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"BRAIN & NERVOUS SYSTEM",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/Prothiaden.png",
+        "count":3,
+        "rating":4
+    }
+    ,
+    {
+        "title" :"Psychodal 4 Mg 30 tablet 3 Strips",
+        "price" :138.75,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"BRAIN & NERVOUS SYSTEM",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/Psychodal.png",
+        "count":3,
+        "rating":4
+    },
+    {
+        "title" :"Pregdin Apex 100 Mg 20 Capsule 2 Strips",
+        "price" :84.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"BRAIN & NERVOUS SYSTEM",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/Pregdin.png",
+        "count":3,
+        "rating":4
+    }
+    ,
+    {
+        "title" :"Night Calm 1 Mg 20 Tablet 2 Strips",
+        "price" :18.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"BRAIN & NERVOUS SYSTEM",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/Night-Calm.png",
+        "count":3,
+        "rating":4
+    }
+    ,
+    {
+        "title" :"Oramax 30 Ml Mouth Wash",
+        "price" :180.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"MOUTH & THROAT",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/Oramax.png",
+        "count":3,
+        "rating":4
+    }
+    ,
+    {
+        "title" :"Strepsils Cool 16 Lozenges 2 Strips",
+        "price" :180.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"MOUTH & THROAT",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/Strepsils.png",
+        "count":3,
+        "rating":4
+    }
+    ,
+    {
+        "title" :"Oracin 120 Ml Mouth Wash",
+        "price" :78.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"MOUTH & THROAT",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/Oracin.png",
+        "count":3,
+        "rating":4
+    },
+    {
+        "title" :"Orovex Peppermint 250 Ml Mouth Wash",
+        "price" :75.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"MOUTH & THROAT",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/Orovex.png",
+        "count":3,
+        "rating":4
+    }
+    ,
+    {
+        "title" :"KENARA THYME 250 ML MOUTH WASH",
+        "price" :75.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"MOUTH & THROAT",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/KENARA.png",
+        "count":3,
+        "rating":4
+    }
+    ,
+    {
+        "title" :"SUTRIM 10 Tablet",
+        "price" :55.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"INFECTIONS",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/SUTRIM.png",
+        "count":3,
+        "rating":4
+    },
+    {
+        "title" :"Clarithro 250 Mg 14 tablet 1 Strip",
+        "price" :40.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"INFECTIONS",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/Clarithro.png",
+        "count":3,
+        "rating":4
+    },{
+        "title" :"Tavanic 500 Mg 5 TABLET 1 STRIP",
+        "price" :99.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"INFECTIONS",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/Tavanic.png",
+        "count":3,
+        "rating":4
+    }
+    ,{
+        "title" :"Newclav 642.9 Mg / 5 Ml 100 Ml suspension",
+        "price" :199.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"INFECTIONS",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/Newclav.png",
+        "count":3,
+        "rating":4
+    }
+    ,{
+        "title" :"Biodroxil 500 Mg 8 Capsule 1 Strip",
+        "price" :19.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"INFECTIONS",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/Biodroxil.png",
+        "count":3,
+        "rating":4
+    }
+    ,{
+        "title" :"BABY HANDY SUPER ABSORBENT 20 D",
+        "price" :19.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"Pregnancy",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/BABY-HANDY.jpg",
+        "count":3,
+        "rating":4
+    }
+    ,{
+        "title" :"SANOSAN kids shower &shampoo raspberry 250 ml",
+        "price" :19.00,
+        "description" :"Active Ingredients Active Ingredient: Quetiapine Concentration: 150.00 Unit: mg",
+        "category" :"Pregnancy",
+        "img" : "https://ahmedmmhmoud2001.github.io/pharmacy-api/img/SANOSAN.jpg",
+        "count":3,
+        "rating":4
+    },
     {
         "id":1,
         "title":"CATAFLAM",
